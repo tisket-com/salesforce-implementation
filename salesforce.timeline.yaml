@@ -1,0 +1,87 @@
+title: Salesforce Implementation
+description: Q1-Q2 2026 timeline for Salesforce CRM integration with Tisket
+created: 2026-01-12
+updated: 2026-01-12
+
+entries:
+  - id: entry-001
+    date: 2026-01-12
+    who: "@jessica"
+    what: Project kickoff and requirements gathering
+    status: in_progress
+    notes: Initial stakeholder meetings scheduled
+
+  - id: entry-002
+    date: 2026-01-15
+    who: "@engineering"
+    what: Salesforce developer org setup and API exploration
+    status: upcoming
+
+  - id: entry-003
+    date: 2026-01-20
+    who: "@jessica"
+    what: Technical design document finalized
+    status: upcoming
+    notes: Architecture review with security team
+
+  - id: entry-004
+    date: 2026-01-27
+    who: "@engineering"
+    what: OAuth 2.0 authentication flow implementation
+    status: upcoming
+
+  - id: entry-005
+    date: 2026-02-03
+    who: "@engineering"
+    what: Contact sync API integration complete
+    status: upcoming
+
+  - id: entry-006
+    date: 2026-02-10
+    who: "@engineering"
+    what: Lead and opportunity sync implementation
+    status: upcoming
+
+  - id: entry-007
+    date: 2026-02-17
+    who: "@design"
+    what: Admin configuration UI mockups
+    status: upcoming
+
+  - id: entry-008
+    date: 2026-02-24
+    who: "@engineering"
+    what: Webhook handlers for real-time updates
+    status: upcoming
+
+  - id: entry-009
+    date: 2026-03-03
+    who: "@design"
+    what: Admin UI implementation complete
+    status: upcoming
+
+  - id: entry-010
+    date: 2026-03-10
+    who: "@qa-team"
+    what: Integration testing phase
+    status: upcoming
+    notes: End-to-end testing with sandbox environment
+
+  - id: entry-011
+    date: 2026-03-17
+    who: "@engineering"
+    what: Data migration tooling ready
+    status: upcoming
+
+  - id: entry-012
+    date: 2026-03-24
+    who: "@qa-team"
+    what: UAT with pilot customers
+    status: upcoming
+
+  - id: entry-013
+    date: 2026-03-31
+    who: "@team"
+    what: Production release
+    status: upcoming
+    notes: Phased rollout starting with enterprise tier
