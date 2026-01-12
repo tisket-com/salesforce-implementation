@@ -5,83 +5,96 @@ updated: 2026-01-12
 
 entries:
   - id: entry-001
-    date: 2026-01-12
-    who: "@jessica"
-    what: Project kickoff and requirements gathering
+    name: Project kickoff and requirements gathering
+    assignee: "@jessica"
+    start: 2026-01-12
+    end: 2026-01-14
     status: in_progress
     notes: Initial stakeholder meetings scheduled
 
   - id: entry-002
-    date: 2026-01-15
-    who: "@engineering"
-    what: Salesforce developer org setup and API exploration
+    name: Salesforce developer org setup and API exploration
+    assignee: "@engineering"
+    start: 2026-01-15
+    end: 2026-01-17
     status: upcoming
 
   - id: entry-003
-    date: 2026-01-20
-    who: "@jessica"
-    what: Technical design document finalized
+    name: Technical design document finalized
+    assignee: "@jessica"
+    start: 2026-01-20
+    end: 2026-01-24
     status: upcoming
     notes: Architecture review with security team
 
   - id: entry-004
-    date: 2026-01-27
-    who: "@engineering"
-    what: OAuth 2.0 authentication flow implementation
+    name: OAuth 2.0 authentication flow implementation
+    assignee: "@engineering"
+    start: 2026-01-27
+    end: 2026-01-31
     status: upcoming
 
   - id: entry-005
-    date: 2026-02-03
-    who: "@engineering"
-    what: Contact sync API integration complete
+    name: Contact sync API integration complete
+    assignee: "@engineering"
+    start: 2026-02-03
+    end: 2026-02-07
     status: upcoming
 
   - id: entry-006
-    date: 2026-02-10
-    who: "@engineering"
-    what: Lead and opportunity sync implementation
+    name: Lead and opportunity sync implementation
+    assignee: "@engineering"
+    start: 2026-02-10
+    end: 2026-02-14
     status: upcoming
 
   - id: entry-007
-    date: 2026-02-17
-    who: "@design"
-    what: Admin configuration UI mockups
+    name: Admin configuration UI mockups
+    assignee: "@design"
+    start: 2026-02-17
+    end: 2026-02-21
     status: upcoming
 
   - id: entry-008
-    date: 2026-02-24
-    who: "@engineering"
-    what: Webhook handlers for real-time updates
+    name: Webhook handlers for real-time updates
+    assignee: "@engineering"
+    start: 2026-02-24
+    end: 2026-02-28
     status: upcoming
 
   - id: entry-009
-    date: 2026-03-03
-    who: "@design"
-    what: Admin UI implementation complete
+    name: Admin UI implementation complete
+    assignee: "@design"
+    start: 2026-03-03
+    end: 2026-03-07
     status: upcoming
 
   - id: entry-010
-    date: 2026-03-10
-    who: "@qa-team"
-    what: Integration testing phase
+    name: Integration testing phase
+    assignee: "@qa-team"
+    start: 2026-03-10
+    end: 2026-03-14
     status: upcoming
     notes: End-to-end testing with sandbox environment
 
   - id: entry-011
-    date: 2026-03-17
-    who: "@engineering"
-    what: Data migration tooling ready
+    name: Data migration tooling ready
+    assignee: "@engineering"
+    start: 2026-03-17
+    end: 2026-03-21
     status: upcoming
 
   - id: entry-012
-    date: 2026-03-24
-    who: "@qa-team"
-    what: UAT with pilot customers
+    name: UAT with pilot customers
+    assignee: "@qa-team"
+    start: 2026-03-24
+    end: 2026-03-28
     status: upcoming
 
   - id: entry-013
-    date: 2026-03-31
-    who: "@team"
-    what: Production release
+    name: Production release
+    assignee: "@team"
+    start: 2026-03-31
+    end: 2026-03-31
     status: upcoming
     notes: Phased rollout starting with enterprise tier
